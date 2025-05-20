@@ -1,10 +1,10 @@
 ---
-title: Dreams
+title: Skull Hubcap
 layout: default
 modal-id: 1
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: hubcap.jpg
+thumbnail: hubcap.jpg
 alt: image-alt
-description: A custom website design project built to help clients showcase their brand online.
+description: A custom hubcab design.
 ---
 
