@@ -9,38 +9,14 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Zachary Skinner
   pic: 1
-  position: Lead Designer
+  position: Founder & 3D Printing Specialist
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://www.facebook.com/zachary.skinner.393
     - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.linkedin.com/in/zachary-skinner-05943a134/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
