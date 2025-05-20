@@ -13,15 +13,11 @@ people:
   pic: 1
   position: Founder & 3D Printing Specialist
   social:
-    - title: facebook
-      url: https://www.facebook.com/zachary.skinner.393
     - title: linkedin
       url: https://www.linkedin.com/in/zachary-skinner-05943a134/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
-    url: https://www.facebook.com/zachary.skinner.393
   - title: linkedin
     url: https://www.linkedin.com/in/zachary-skinner-05943a134/
 
